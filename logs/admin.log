@@ -1,0 +1,68 @@
+NO	TIME			USER		TYPE		DESCRIPTION
+1	2019-11-13 16:38:12	chamim		login		login
+2	2019-11-13 16:38:20	chamim		logout		logout
+3	2019-11-13 16:40:03	chamim		login		login
+4	2019-11-13 17:10:21	chamim		add		menambahkan produk Minyak Bimoli
+5	2019-11-13 17:31:51	chamim		edit		mengubah data produk 
+6	2019-11-13 17:32:16	chamim		edit		mengubah data produk 
+7	2019-11-13 17:34:40	chamim		delete		menghapus produk 
+8	2019-11-13 17:35:06	chamim		add		menambahkan produk Minyak Bimoli
+9	2019-11-13 18:24:12	chamim		edit		mengubah data produk 
+10	2019-11-13 19:07:19	chamim		add		menambahkan kategori Makanan ringan
+11	2019-11-13 20:10:38	chamim		delete		menghapus jenis produk Makanan ringan
+12	2019-11-13 20:11:35	chamim		add		menambahkan kategori Makanan ringan
+13	2019-11-13 20:21:04	chamim		delete		menghapus jenis produk Makanan ringan
+14	2019-11-13 20:21:08	chamim		add		menambahkan kategori Makanan ringan
+15	2019-11-13 20:33:06	chamim		edit		mengubah kategori produk Makanan
+16	2019-11-13 20:33:16	chamim		edit		mengubah kategori produk Makanan
+17	2019-11-13 20:34:20	chamim		edit		mengubah kategori produk Makanan
+18	2019-11-13 20:34:36	chamim		edit		mengubah kategori produk Makanan ringan
+19	2019-11-13 21:51:00	chamim		edit		mengubah profil
+20	2019-11-13 21:51:06	chamim		edit		mengubah profil
+21	2019-11-13 21:55:58	chamim		logout		logout
+22	2019-11-13 21:56:01	chamim		login		login
+23	2019-11-13 21:56:08	chamim		edit		mengubah password
+24	2019-11-13 21:56:12	chamim		edit		mengubah password
+25	2019-11-13 21:57:05	chamim		edit		mengubah password
+26	2019-11-13 21:58:17	chamim		edit		mengubah password
+27	2019-11-13 21:59:55	chamim		logout		logout
+28	2019-11-13 21:59:59	chamim		login		login
+29	2019-11-13 22:04:10	chamim		logout		logout
+30	2019-11-13 22:04:15	aditya		login		login
+31	2019-11-13 22:04:22	aditya		logout		logout
+32	2019-11-13 22:04:56	admin		login		login
+33	2019-11-13 22:08:03	admin		logout		logout
+34	2019-11-13 22:08:07	chamim		login		login
+35	2019-11-13 22:51:19	chamim		add		menambahkan produk Tic tac
+36	2019-11-13 22:52:46	chamim		edit		mengubah data produk 
+37	2019-11-13 22:54:08	chamim		edit		mengubah data produk Tic tac
+38	2019-11-13 23:02:41	chamim		logout		logout
+39	2019-11-14 12:38:36	admin		login		login
+40	2019-11-14 13:21:40	admin		add		menambahkan supplier PT Serba guna
+41	2019-11-14 13:24:08	admin		edit		mengubah data supplier PT Serba guna
+42	2019-11-14 13:26:47	admin		add		menambahkan produk Boyki
+43	2019-11-14 13:27:08	admin		edit		mengubah data produk Boyki
+44	2019-11-14 13:27:13	admin		edit		mengubah data produk Boyki
+45	2019-11-14 13:27:21	admin		edit		mengubah data produk Boyki
+46	2019-11-14 13:28:57	admin		edit		mengubah data produk Boyki
+47	2019-11-14 13:29:07	admin		delete		menghapus produk Boyki
+48	2019-11-14 13:34:28	admin		add		menambahkan kategori Mainan
+49	2019-11-14 13:34:43	admin		edit		mengubah kategori produk Mainan anak
+50	2019-11-14 13:34:45	admin		delete		menghapus kategori produk Mainan anak
+51	2019-11-14 13:34:54	admin		edit		mengubah profil
+52	2019-11-14 13:34:59	admin		edit		mengubah password
+53	2019-11-14 13:35:14	admin		edit		mengubah password
+54	2019-11-14 13:35:53	admin		edit		mengubah password
+55	2019-11-14 13:36:09	admin		edit		mengubah profil
+56	2019-11-14 13:37:30	admin		logout		logout
+57	2019-11-14 13:37:34	admin		login		login
+58	2019-11-14 13:43:07	admin		logout		logout
+59	2019-11-14 13:43:10	admin		login		login
+60	2019-11-14 14:11:20	admin		logout		logout
+61	2019-11-14 14:11:24	aditya		login		login
+62	2019-11-14 14:16:26	aditya		logout		logout
+63	2019-11-14 14:16:32	admin		login		login
+64	2019-11-14 14:23:58	admin		download		mengunduh log aktivitas
+65	2019-11-14 14:25:31	admin		unduh		mengunduh log aktivitas
+66	2019-11-14 14:25:54	admin		unduh		mengunduh log aktivitas
+67	2019-11-14 14:25:59	admin		unduh		mengunduh log aktivitas
