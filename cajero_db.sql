@@ -93,8 +93,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`UserID`, `NamaDepan`, `NamaBelakang`, `Username`, `Password`, `Kelas`, `Tanggal`, `Status`) VALUES
-(1, 'admin', 'admin', 'admin', '$2y$10$9vC/b0HvXznyyT1QIkSAru62egVylxD95HWomk8ULmjB8KXJXb0P2', 1, '2019-11-10 10:35:21', 1),
-(2, 'aditya', 'pratama', 'aditya', '$2y$10$7F6gwKqV.9Srf4ZHbSsiQexRz1GAGtmmjgAchF0IfzmiNbnl/Jclq', 2, '2019-11-10 10:40:21', 1);
+(1, 'aditya', 'pratama', 'adityacprtm', '$2y$10$1RuHIfJt/mKh791iiX7sWeQByaxab6chZcDYEyCoX4O.z9jF1UHpq', 1, '2019-11-10 10:35:21', 1);
 
 --
 -- Indexes for dumped tables
